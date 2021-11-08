@@ -1,0 +1,9 @@
+astapi
+uvicorn
+
+#for database   #new
+sqlalchemy         
+psycopg2
+
+#for loading environment variables  #new
+python-dotenv
